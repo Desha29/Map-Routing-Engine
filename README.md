@@ -59,10 +59,10 @@ Each query returns:
 
 ## 🖼️ GUI Highlights
 
-![Default View](docs/images/Screenshot_01.png)
+![Default View](docs/images/Screenshot 1.png)
 *Default view after loading map and queries.*
 
-![Query Highlighted](docs/images/Screenshot_02.png)
+![Query Highlighted](docs/images/Screenshot 1.png)
 *Highlighted path result for selected query.*
 
 - Load map and queries
