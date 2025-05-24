@@ -59,12 +59,12 @@ Each query returns:
 
 ## 🖼️ GUI Highlights
 
-![Default View](docs/images/Screenshot 1.png)
+![Default View](docs/images/Screenshot%201.png)
 *Default view after loading map and queries.*
 
-![Query Highlighted](docs/images/Screenshot 1.png)
+![Query Highlighted](docs/images/Screenshot%202.png)
 *Highlighted path result for selected query.*
-
+![Query Highlighted](docs/images/Screenshot%203.png)
 - Load map and queries
 - Run all or individual queries
 - Path overlay with legend
