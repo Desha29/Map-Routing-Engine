@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/EoSPTS1JDU=",
+  "success": true,
+  "projectFilePath": "D:\\MapRoutingGUI\\MapRoutingGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mstfo\\.nuget\\packages\\winforms.datavisualization\\1.10.0\\winforms.datavisualization.1.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
